@@ -552,6 +552,11 @@
   	"weight": 1
   },
   {
+    "speciesId": "necrozma_dusk_mane",
+    "fastMove": "SHADOW_CLAW",
+    "weight": 1
+  },
+  {
     "speciesId": "nihilego",
     "chargedMoves": ["SLUDGE_BOMB", "POWER_GEM"],
     "weight": 1
