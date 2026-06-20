@@ -413,7 +413,8 @@
   },
   {
   	"speciesId": "lopunny_mega",
-  	"chargedMoves": ["TRIPLE_AXEL","FOCUS_BLAST"],
+    "fastMove": "LOW_KICK",
+  	"chargedMoves": ["THUNDER_PUNCH","SHADOW_BALL"],
   	"weight": 1
   },
   {
